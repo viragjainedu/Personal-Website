@@ -1,6 +1,5 @@
-My personal Website - 
+[My personal Website -](https://viragjainedu.github.io/Personal-Website/)
         Resume,
         Skills,
         Contact.
         
-        https://viragjainedu.github.io/Personal-Website/
